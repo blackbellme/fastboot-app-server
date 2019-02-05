@@ -30,7 +30,7 @@
     "compression": "^1.6.2",
     "express": "^4.13.3",
     "fastboot": "^1.1.4-beta.1",
-    "fastboot-express-middleware": "^1.1.1",
+    "fastboot-express-middleware": "git://github.com/blackbellme/fastboot-express-middleware.git#blackbell_specific_changes",
     "fs-promise": "^2.0.3",
     "request": "^2.81.0"
   },
